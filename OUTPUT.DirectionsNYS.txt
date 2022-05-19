@@ -1,0 +1,35 @@
+=== CSC 172 Project 04 ===
+Author: Adam Kaplan (akaplan6)
+Submitted on: April 16, 2016
+Lab Section: TR 4:50PM - 6:05PM
+TA: Charlie Kelman
+
+I affirm that I have not given or received any unauthorized help on this assignment, and that this work is my own.
+
+
+== OUTPUT == (java Main nys.txt -show -directions i0 i20)
+
+The directions to get from i0 to i20 are:
+Take r0 to get from i0 to i1.
+Take r0-1 to get from i1 to i2.
+Take r0-2 to get from i2 to i3.
+Take r0-3 to get from i3 to i4.
+Take r0-4 to get from i4 to i5.
+Take r0-5 to get from i5 to i6.
+Take r0-6 to get from i6 to i7.
+Take r0-7 to get from i7 to i8.
+Take r0-8 to get from i8 to i9.
+Take r0-9 to get from i9 to i10.
+Take r0-10 to get from i10 to i11.
+Take r0-11 to get from i11 to i12.
+Take r0-12 to get from i12 to i13.
+Take r0-13 to get from i13 to i14.
+Take r0-14 to get from i14 to i15.
+Take r0-15 to get from i15 to i16.
+Take r0-16 to get from i16 to i17.
+Take r0-17 to get from i17 to i18.
+Take r0-18 to get from i18 to i19.
+Take r0-19 to get from i19 to i20.
+Total miles traveled: 0.7295786563645128 miles.
+In summary you want the following intersections: 
+[i0, i1, i2, i3, i4, i5, i6, i7, i8, i9, i10, i11, i12, i13, i14, i15, i16, i17, i18, i19, i20]

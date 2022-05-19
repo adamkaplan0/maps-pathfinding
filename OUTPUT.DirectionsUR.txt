@@ -1,0 +1,30 @@
+=== CSC 172 Project 04 ===
+Author: Adam Kaplan (akaplan6)
+Submitted on: April 16, 2016
+Lab Section: TR 4:50PM - 6:05PM
+TA: Charlie Kelman
+
+I affirm that I have not given or received any unauthorized help on this assignment, and that this work is my own.
+
+
+== OUTPUT == (java Main ur.txt -show -directions GOERGEN-ATHLETIC CSB)
+
+
+The directions to get from GOERGEN-ATHLETIC to CSB are:
+Take r180 to get from GOERGEN-ATHLETIC to i54.
+Take r162 to get from i54 to i30.
+Take r72 to get from i30 to i33.
+Take r76 to get from i33 to WILSON.
+Take r78 to get from WILSON to RETTNER.
+Take r79 to get from RETTNER to i39.
+Take r98 to get from i39 to TUNNEL-MOREY.
+Take r143 to get from TUNNEL-MOREY to TUNNEL-HOYT.
+Take r135 to get from TUNNEL-HOYT to i65.
+Take r137 to get from i65 to i66.
+Take r145 to get from i66 to i68.
+Take r149 to get from i68 to i70.
+Take r158 to get from i70 to i75.
+Take r161 to get from i75 to CSB.
+Total miles traveled: 0.2793886194279957 miles.
+In summary you want the following intersections: 
+[GOERGEN-ATHLETIC, i54, i30, i33, WILSON, RETTNER, i39, TUNNEL-MOREY, TUNNEL-HOYT, i65, i66, i68, i70, i75, CSB]

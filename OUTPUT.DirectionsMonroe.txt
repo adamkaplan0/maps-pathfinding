@@ -1,0 +1,32 @@
+=== CSC 172 Project 04 ===
+Author: Adam Kaplan (akaplan6)
+Submitted on: April 16, 2016
+Lab Section: TR 4:50PM - 6:05PM
+TA: Charlie Kelman
+
+I affirm that I have not given or received any unauthorized help on this assignment, and that this work is my own.
+
+
+== OUTPUT == (java Main monroe.txt -show -directions i313 i330)
+
+The directions to get from i313 to i330 are:
+Take r37-8 to get from i313 to i314.
+Take r37-9 to get from i314 to i315.
+Take r37-10 to get from i315 to i316.
+Take r37-11 to get from i316 to i317.
+Take r37-12 to get from i317 to i318.
+Take r37-13 to get from i318 to i319.
+Take r37-14 to get from i319 to i320.
+Take r37-15 to get from i320 to i321.
+Take r37-16 to get from i321 to i322.
+Take r37-17 to get from i322 to i323.
+Take r37-18 to get from i323 to i324.
+Take r37-19 to get from i324 to i325.
+Take r37-20 to get from i325 to i326.
+Take r37-21 to get from i326 to i327.
+Take r37-22 to get from i327 to i328.
+Take r37-23 to get from i328 to i329.
+Take r37-24 to get from i329 to i330.
+Total miles traveled: 0.891171157208213 miles.
+In summary you want the following intersections: 
+[i313, i314, i315, i316, i317, i318, i319, i320, i321, i322, i323, i324, i325, i326, i327, i328, i329, i330]
