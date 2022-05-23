@@ -1,4 +1,4 @@
-# Path-finding in Maps
+# Path Finding in Maps
 
 ## General Information
 
